@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "ten": "Học Code",
+        "mo_ta": "Lập trình Python cơ bản",
+        "hoan_thanh": true,
+        "cap_nhat": "2025-07-16 14:36:20"
+    },
+    {
+        "id": 2,
+        "ten": "Việc Nhà",
+        "mo_ta": "Nấu cơm",
+        "hoan_thanh": false,
+        "cap_nhat": "2025-07-16 14:54:35"
+    },
+    {
+        "id": 3,
+        "ten": "Việc Nhà",
+        "mo_ta": "Giặt đồ",
+        "hoan_thanh": true,
+        "cap_nhat": "2025-07-16 14:54:56"
+    },
+    {
+        "id": 4,
+        "ten": "Việc Nhà",
+        "mo_ta": "Tưới cây",
+        "hoan_thanh": false,
+        "cap_nhat": "2025-07-16 14:55:27"
+    }
+]
